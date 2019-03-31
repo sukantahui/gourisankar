@@ -1,0 +1,379 @@
+2019-02-04 05:55:24,1X786X9A70,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00110-1819','C-00002-1819','C-00062-1718','20190204',NULL,'','2019-02-05','1500','','','','','',0,1500,'2019-02-28','')
+2019-02-04 05:55:33,88YX421H58,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00110-1819','C-00002-1819','C-00062-1718','20190204',NULL,'','2019-02-05','1500','','','','','',0,1500,'2019-02-28','2019-02-04')
+2019-03-22 12:13:34,45X2YX3A87,purchase_model,insert_opening,1054insert into person (
+               person_id
+              ,person_cat_id
+              ,person_name
+              ,mailing_name
+              ,mobile_no
+              ,phone_no
+              ,email
+              ,aadhar_no
+              ,pan_no
+              ,address1
+              ,city
+              ,district_id
+              ,post_office
+              ,pin
+              ,gst_number
+              ,inforce
+              ,state_id
+            ) VALUES ('C-00001-1819',5,' ','','frr','','','','','','trtre','','','','',1,'19')
+2019-03-22 10:17:37,80150611AH,person model,update_person,1064update person set
+                 person_name=?
+                , mobile_no=?
+                , email=?
+                , aadhar_no=?
+                , pan_no=?
+                , address=?
+                , city=?
+                , district_id=?
+                , post_office=?
+                , pin=?
+                , gst_number=?
+                , state_id=? where person_id=?
+2019-03-22 10:20:19,754666071A,person model,update_person,1064update person set
+                 person_name=?
+                , mobile_no=?
+                , email=?
+                , aadhar_no=?
+                , pan_no=?
+                , address=?
+                , city=?
+                , district_id=?
+                , post_office=?
+                , pin=?
+                , gst_number=?
+                , state_id=? where person_id=?
+2019-03-29 11:39:27,78H830A4X1,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00002-1819',5,'Gourisankar Oil Mill','Debojyoti Saha','9802250056','gourisankar@gmail.co','bethua','barrackpore','1','700122','barrackpore','456GVH5','458210','32432435','19','boi bank','barrackpore','4534CGHGH','57435743','65457453');
+2019-03-29 11:53:04,5334A1242X,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00003-1819',5,'Fggd','Gfdgfd','fggg','gourisankar@gmail.co','hfghgf','fghgf','2','ghfghgf','hgfhgf','hghg','hgghgf','hgfhgf','19','hfgh','ghfh','hgfhfgh','422','hrhrt');
+2019-03-29 11:53:04,9A9181123X,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00003-1819',5,'Fggd','Gfdgfd','fggg','gourisankar@gmail.co','hfghgf','fghgf','2','ghfghgf','hgfhgf','hghg','hgghgf','hgfhgf','19','hfgh','ghfh','hgfhfgh','422','hrhrt');
+2019-03-29 11:55:57,94X0X35H72,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00004-1819',5,'Grtg','Gty','gt','gourisankar@gmail.co','gfgfg','fgfgf','5','fgfgfg','fgfg','gf','gfgf','gfgf','19','gff','bdfgf','gfbff','fgffff','fffffffffffffff');
+2019-03-29 11:55:57,0HX9560H1X,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00004-1819',5,'Grtg','Gty','gt','gourisankar@gmail.co','gfgfg','fgfgf','5','fgfgfg','fgfg','gf','gfgf','gfgf','19','gff','bdfgf','gfbff','fgffff','fffffffffffffff');
+2019-03-29 11:55:57,8XA873A4Y3,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00004-1819',5,'Grtg','Gty','gt','gourisankar@gmail.co','gfgfg','fgfgf','5','fgfgfg','fgfg','gf','gfgf','gfgf','19','gff','bdfgf','gfbff','fgffff','fffffffffffffff');
+2019-03-30 12:04:01,9A8124A2XX,purchase_model,insert_opening,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,company_name
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+                ,bank_name
+                ,branch
+                ,ifsc_code
+                ,micr_code
+                ,account_number
+              ) VALUES ('C-00006-1819',5,'Gourisankar Oil Mill','Debojyoti Saha','9850256520','gourisankar@gmail.co','bethua','bethua','1','7010128','no','gjghjk657465','1258','70094','19','boi','nodia','100','100200','23112345');
+2019-03-30 12:07:01,639H961896,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00007-1819',4,'Robin','785785898','gourisankar@gmail.co','kolkata','bkp','1','122255','700122','bjkgh565656','4565467','576578','19');
+2019-03-30 12:07:01,2231442870,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00007-1819',4,'Robin','785785898','gourisankar@gmail.co','kolkata','bkp','1','122255','700122','bjkgh565656','4565467','576578','19');
+2019-03-30 12:07:01,744047HXY4,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00007-1819',4,'Robin','785785898','gourisankar@gmail.co','kolkata','bkp','1','122255','700122','bjkgh565656','4565467','576578','19');
+2019-03-30 12:07:28,XXYY37Y912,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00008-1819',4,'Jhghghg','6755','gourisankar@gmail.co','gvhjgh','','10','jhghj','jhghj','fvhvh','vfvfhg','jhghgh','19');
+2019-03-30 12:07:28,4X3A7Y28A7,customer_model,insert_new_customer,1062insert into person (
+                person_id
+                ,person_cat_id
+                ,person_name
+                ,mobile_no
+                ,email
+                ,address
+                ,city
+                ,district_id
+                ,post_office
+                ,pin
+                ,aadhar_no
+                ,pan_no
+                ,gst_number
+                ,state_id
+              
+              ) VALUES ('C-00008-1819',4,'Jhghghg','6755','gourisankar@gmail.co','gvhjgh','','10','jhghj','jhghj','fvhvh','vfvfhg','jhghgh','19');
+2019-03-30 12:41:16,1752831A0H,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00001-1819','C-00005-1819','C-00062-1718','',NULL,'','','','','','','','',0,1200,'','')
+2019-03-30 01:50:56,618H526235,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00002-1819','C-00005-1819','C-00062-1718','',NULL,'','','','','','','','',0,50,'','')
+2019-03-30 01:51:10,A86828YH84,purchase_model,insert_opening,1048insert into purchase_master (
+                   purchase_master_id
+                  ,vendor_id
+                  ,employee_id
+                  ,invoice_no
+                  ,purchase_date
+                  ,eway_bill_no
+                  ,eway_bill_date
+                  ,vehicle_fare
+                  ,truck_no
+                  ,bilty_no
+                  ,licence_no
+                  ,transport_name
+                  ,transport_mobile
+                  ,roundedOff
+                  ,grand_total
+                  ,valid_from
+                  ,valid_to
+                ) VALUES ('PUR-00002-1819','C-00005-1819','C-00062-1718','',NULL,'','2019-04-01','','','','','','',0,50,'2019-03-13','2019-03-28')
